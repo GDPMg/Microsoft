@@ -1,0 +1,1 @@
+Nesse projeto com parceria com a Microsoft, o tema foi o combate à fome. Nós nos concentramos na agricultura urbana, para a qual desenvolvemos um website com o objetivo de atrair clientes, alertar sobre sua importância e chamar atenção.
